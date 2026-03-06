@@ -2,7 +2,7 @@
 
 ## The Core Concept Students Needed to Understand
 
-The most important concept in this assignment was learning how to Tackle down all the features request and turn it into a clear system design using classes `(OOPD:object-oriented design)`. We had to identify the main objects in the system, like `Customer`, `Menu`, `FoodItem`, and `Transaction`, and understand how they relate to each other. Once the design was clear in the UML diagram, implementing the code became much easier because each class had a clear role.
+The most important concept in this assignment was learning how to Tackle down all the features request and turn it into a clear system design using classes `(OOD:object-oriented design)`. We had to identify the main objects in the system, like `Customer`, `Menu`, `FoodItem`, and `Transaction`, and understand how they relate to each other. Once the design was clear in the UML diagram, implementing the code became much easier because each class had a clear role.
 
 
 ## Where Students Are Most Likely to Struggle
