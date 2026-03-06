@@ -43,3 +43,6 @@
 │     : List<FoodItem>                    │
 └─────────────────────────────────────────┘
 ```
+
+
+![bytebites-uml](https://github.com/user-attachments/assets/584ce8fd-b56d-4aed-acc4-d22a407ca768)
