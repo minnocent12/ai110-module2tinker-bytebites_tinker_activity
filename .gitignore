@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+check_models.py
+manual_check.py
